@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>INDEX 2022-04-06</h1>
+	<c:set var="tmp_param" value="el set output."></c:set>
+	<h1>~OLLEH ${name}.</h1>
+	<h2>${tmp_param}</h2>
 </body>
 </html>
